@@ -1,0 +1,15 @@
+D:\_Git\repos\MethodsExercise\bin\Debug\net7.0\MethodsExercise.exe
+D:\_Git\repos\MethodsExercise\bin\Debug\net7.0\MethodsExercise.deps.json
+D:\_Git\repos\MethodsExercise\bin\Debug\net7.0\MethodsExercise.runtimeconfig.json
+D:\_Git\repos\MethodsExercise\bin\Debug\net7.0\MethodsExercise.dll
+D:\_Git\repos\MethodsExercise\bin\Debug\net7.0\MethodsExercise.pdb
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.csproj.AssemblyReference.cache
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.AssemblyInfoInputs.cache
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.AssemblyInfo.cs
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.csproj.CoreCompileInputs.cache
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.dll
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\refint\MethodsExercise.dll
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.pdb
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\MethodsExercise.genruntimeconfig.cache
+D:\_Git\repos\MethodsExercise\obj\Debug\net7.0\ref\MethodsExercise.dll
